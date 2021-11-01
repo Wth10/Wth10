@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <div align="left">
   <a href="https://github.com/Wth10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wth10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<div align="right">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wth10&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
