@@ -10,7 +10,6 @@
 
 <?php
   echo "Hello world";
-?>
 
 <div>
   <a href="https://github.com/Wth10">
