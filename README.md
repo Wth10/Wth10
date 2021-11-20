@@ -2,7 +2,6 @@
 
 - 🌱 Estudante Ensino Médio 
 - 🙂 Full Stack 
-- ⚡ Name: Welbert
 
 <div>
   <a href="https://github.com/Wth10">
