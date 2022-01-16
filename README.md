@@ -2,7 +2,7 @@
 
 - 🌱 Estudante Ensino Médio 
 - 🙂 Front End e Back End
-<a href=""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 <div>
   <a href="https://github.com/Wth10">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Wth10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -10,3 +10,8 @@
 </div>
   
 ![Snake animation](https://github.com/Wth10/Wth10/blob/output/github-contribution-grid-snake.svg)
+  
+<br>
+  
+<a href=""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
