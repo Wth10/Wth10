@@ -1,7 +1,7 @@
 ### Olá! Sou Wth10 Bem-Vindo(a) 👋
 
 - 🌱 Estudante Ensino Médio 
-- 🙂 Front End
+- 🙂 Front End e Back End
 
 <div>
   <a href="https://github.com/Wth10">
