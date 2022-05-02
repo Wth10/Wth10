@@ -1,4 +1,4 @@
-<p align="center">Olá! Sou Wth10 Bem-Vindo(a)</p> 👋
+<p align="center">Hello, I'm Welbert</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile!&center=true&width=380&height=45">
@@ -14,4 +14,3 @@
 </div>
   
 ![Snake animation](https://github.com/Wth10/Wth10/blob/output/github-contribution-grid-snake.svg)
-
