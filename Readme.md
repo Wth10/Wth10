@@ -1,4 +1,4 @@
-### <p>Olá! Sou Wth10 Bem-Vindo(a)</p> 👋
+<p align="center">Olá! Sou Wth10 Bem-Vindo(a)</p> 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile!&center=true&width=380&height=45">
