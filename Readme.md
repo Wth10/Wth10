@@ -1,5 +1,5 @@
 <div  align="center" >
-  <h2>Hello, I'm <a href="https://shared-ticket-8f1.notion.site/My-Professional-resume-1278c39bbc564937a139d258e2627684">Weubert</a></h2>
+  <h2>Hello, I'm <a href="https://shared-ticket-8f1.notion.site/My-Professional-resume-1278c39bbc564937a139d258e2627684" target="_blank">Weubert</a></h2>
 </div>
 
 <p align="center">
