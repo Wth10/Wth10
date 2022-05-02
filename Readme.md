@@ -1,8 +1,7 @@
 ### Olá! Sou Wth10 Bem-Vindo(a) 👋
 
 <p align="center">
-  <a href="https://github.com/ericxlima">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ericxlima?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45">
 </p>
 
 - 🌱 Estudante Ensino Médio 
