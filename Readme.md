@@ -1,4 +1,6 @@
-<p align="center" style="color:green">Hello, I'm Welbert</p>
+<div  align="center" >
+  <h2 class="mod">Hello, I'm Welbert</h2>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile!&center=true&width=380&height=45">
