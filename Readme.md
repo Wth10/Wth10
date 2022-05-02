@@ -6,8 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile!&center=true&width=380&height=45">
 </p>
 
-- 🌱 Estudante Ensino Médio 
-- 🙂 Front End e Back End
+- 🌱 High School Student
+- 🙂 Front End and Back End
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wth10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
